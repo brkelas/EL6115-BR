@@ -1,0 +1,38 @@
+GitUp adalah aplikasi desktop untuk sistem kontrol versi Git yang memungkinkan pengguna untuk 
+melihat, membandingkan, dan mengubah riwayat commit Git dengan mudah. Berikut adalah panduan 
+singkat tentang cara menggunakan GitUp:
+
+Instal GitUp
+Unduh GitUp dari situs web resminya (https://gitup.co/) dan instal aplikasi pada komputer Anda.
+
+Clone repository
+Pilih File > Clone Repository dan masukkan URL repository Git Anda. Pilih direktori tujuan dan 
+klik Clone.
+
+Commit changes
+Buka proyek Anda di GitUp dan buat commit baru dengan mengklik tombol Commit Changes di bagian 
+atas tampilan. Masukkan pesan commit dan pilih file atau direktori yang ingin Anda commit. Klik 
+Commit.
+
+Push commit
+Setelah membuat commit, klik tombol Push Changes untuk mengirimkan commit ke repository Git.
+
+Pull changes
+Untuk mendapatkan perubahan terbaru dari repository Git, klik tombol Pull Changes.
+
+Branching
+Untuk membuat branch baru, klik tombol New Branch di bagian atas tampilan. Masukkan nama branch 
+baru dan pilih branch induk. Klik Create Branch.
+
+Merge changes
+Untuk menggabungkan branch dengan branch utama, klik tombol Merge Branch di bagian atas tampilan. 
+Pilih branch yang akan digabungkan dan klik Merge.
+
+Resolve conflicts
+Jika terjadi konflik saat menggabungkan branch, GitUp akan menampilkan pesan konflik. Anda dapat 
+memilih file dan memperbaiki konflik secara manual atau memilih opsi mereka pilih penggabungan 
+otomatis.
+
+Undo changes
+Jika Anda ingin membatalkan perubahan, klik tombol Undo Changes di bagian atas tampilan. Pilih 
+commit yang ingin Anda batalkan dan klik Undo.
